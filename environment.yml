@@ -1,7 +1,14 @@
-name: pythia-tutorial_environment_template
+name: pythia-metpy-tutorial
 channels:
   - conda-forge
 dependencies:
-  - jupyter
+  - cartopy
+  - geopandas
   - jupyterlab
-  - mamba
+  - matplotlib
+  - metpy=1.2
+  - netCDF4
+  - numpy
+  - pint
+  - scipy
+  - xarray
