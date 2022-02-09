@@ -1,6 +1,7 @@
 name: pythia-metpy-tutorial
 channels:
   - conda-forge
+  - nodefaults
 dependencies:
   - cartopy
   - geopandas
@@ -9,6 +10,7 @@ dependencies:
   - metpy=1.2
   - netCDF4
   - numpy
+  - pandas
   - pint
   - scipy
   - xarray
