@@ -38,4 +38,4 @@ By attending this tutorial, you are subject to the [NCAR/UCAR Code of Conduct](h
 
 ## Tutorial Recording
 
-youtube.com/watch?v=a3VXzFOPuCg
+[This session has been recorded on our Youtube channel.](youtube.com/watch?v=a3VXzFOPuCg)
